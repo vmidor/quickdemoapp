@@ -1,0 +1,44 @@
+body{
+    background-image: url(https://p.kindpng.com/picc/s/771-7715793_saint-laurent-white-logo-hd-png-download.png);
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+h1{
+    font-family: fantasy;
+    color:white;
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 28px;
+
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 18px;
+}
+
+p{
+    text-align: right;
+}
+h3{
+    text-align: center;
+}
+div.responsive-video{
+    text-align: center;
+}
+p.styledFont{
+    text-align:center;
+
+
+}
+button.MoreInfo{
+font-size: 18px;
+-moz-box-align:center;
+color: black;
+}
+
